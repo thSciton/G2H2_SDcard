@@ -1,0 +1,10 @@
+BBL*.*
+*.bat
+*.sh
+UI_rev
+*.tgz
+*.tar
+./*
+
+
+
